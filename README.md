@@ -7,6 +7,7 @@
 https://docs.modular.com/mojo/
 
 configuring mojo SDK (https://developer.modular.com/download)
+video guide to configuring: (https://www.youtube.com/watch?v=cHyYmF-RhUk) 
 
 config done:
 1. docker desktop
@@ -33,6 +34,8 @@ error log:
 todo:
    - gotta get the right container running (search the error)
    - check if mojo project config is good or if i need to git clone
+   - might have to clone mojo to get the right docker config so i can launch ubuntu (bc Mojo SDK cant run on Mac w/ Intel chips yet)
+   - spent a really long time configuring docker desktop today, so that's all i got done 
 
 
 
